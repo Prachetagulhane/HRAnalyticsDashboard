@@ -141,14 +141,6 @@ Solution: Used Power Query for cleaning and transformation to ensure accurate da
 
 
 
----
-
-🖼 Dashboard Preview
-
-(Add a screenshot of your dashboard here)
-
-![HR Dashboard Screenshot](path_to_image.png)
-
 
 ---
 
